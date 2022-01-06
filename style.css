@@ -15,7 +15,6 @@ h1 {
 }
 .stay-focused{
     border-left: 3px solid deeppink;
-
 }
 .link-button{
     text-decoration: none;
@@ -42,7 +41,6 @@ h1 {
 .second-banner-top{
     display: flex;
     margin-left: 5%;
-
 }
 .mission-vission-goals{
     height: 370px;
@@ -70,6 +68,20 @@ margin: 0 20px;
 }
 .goals{
     background-color:thistle ;
+}
+.third-banner{
+    margin-top: 100px;
+    background-image: url(images/shapes/dream-bg.png);
+    background-repeat: no-repeat;
+}
+.third-banner-section{
+    display: flex;
+}
+.knowledge-section{
+    margin-left: 0;
+}
+.fourth-banner{
+    
 }
 footer{
     text-align: center;
