@@ -1,0 +1,86 @@
+body{
+    font-size: Roboto, sans-serif ;
+    margin: 0;
+}
+.top-banner{
+    display: flex;
+    padding-left: 5%;
+}
+h1 {
+    font-size: 50px;
+    margin-left: 10px;
+}
+.span-color{
+    color: blue;
+}
+.stay-focused{
+    border-left: 3px solid deeppink;
+
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(deeppink,blueviolet) ;
+    color: white;
+    padding: 10px 40px;
+    border-radius: 7px;
+    font-weight: 700;
+}
+.half-width{
+    width: 50%;
+    margin-left: 30px;
+}
+.half-width p{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px 0;
+}
+.half-width img{
+    margin-left: 80px;
+}
+.second-banner h1{
+    text-align: center;
+}
+.second-banner-top{
+    display: flex;
+    margin-left: 5%;
+
+}
+.mission-vission-goals{
+    height: 370px;
+    width: 350px;
+    margin: 10px 30px;
+    border-radius: 10px;
+    box-shadow:10px 10px 40px gray;
+}
+.mission-vission-goals img{
+    height: 200px;
+    width: 150px;
+}
+.mission-vission-goals h3{
+margin-left: 20px;
+font-weight: 700;
+}
+.mission-vission-goals p{
+margin: 0 20px;
+}
+.mission{
+    background-color: rgb(241, 186, 241);
+}
+.vision{
+    background-color:seashell ;
+}
+.goals{
+    background-color:thistle ;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 100px;
+}
+.footer-headding{
+    padding-top: 20px;
+    font-style: italic;
+}
+.footer-headding span{
+    color: red;
+}
